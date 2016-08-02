@@ -5,7 +5,7 @@ React example app that demonstrates using [React] with [Webpack], and [Babel], a
 To run the app locally:
 
 ```bash
-git clone git@github.com:akdev5/react-app-example.git
+git clone https://github.com/akdev5/react-app-example.git
 cd react-app-example
 npm install
 npm start
